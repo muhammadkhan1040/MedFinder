@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "symptoms": "high fever, body aches, and chills",
+  "recommendations": [
+    {
+      "rank": 1,
+      "chemical_formula": "Response Parsing Error",
+      "dosage": "N/A",
+      "explanation": "Unable to parse AI response. The response may be incomplete. Please try again with a shorter, more specific symptom description.",
+      "warnings": "If symptoms persist, consult a healthcare professional",
+      "requires_doctor": false,
+      "matched_medicines": [],
+      "available": false,
+      "medicine_count": 0
+    }
+  ],
+  "ai_analysis": "```json\n{\n  \"is_medical_query\": true,\n  \"analysis\": \"The symptoms of high fever, body aches, and chills are indicative of a systemic infection, often viral. While fever can be a beneficial response to infection, its negative effects like increased metabolic activity and fluid requirements necessitate symptomatic relief. Body aches are often associated with inflammation and the body's response to infection.\",\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"chemical_formula\": \"Paracetamol\",\n      \"dosage\": \"500mg every 4-6 hours, not exceeding 4000mg in 24 hours\",\n      \"reason\": \"Acts as an antipyretic to reduce fever and an analgesic to relieve body aches, addressing the negative effects of elevated body temperature as mentioned in Source 1.\",\n      \"warnings\": \"Avoid exceeding recommended dose due to risk of liver damage. Do not use with other paracetamol-containing products.\",\n      \"requires_doctor\": false\n    },\n    {\n      \"rank\": 2,\n      \"chemical_formula\": \"Ibuprofen\",\n   ",
+  "rag_used": true,
+  "rag_chunks": 5,
+  "disclaimer": "This is for informational purposes only. Always consult a healthcare professional."
+}

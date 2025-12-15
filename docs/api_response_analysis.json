@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://dawaai.pk/product/get_product",
+    "status": 200,
+    "body": {
+      "allow_strips": true,
+      "out_of_stock": 0,
+      "max_limit": "20",
+      "pack_limit": 1,
+      "strip_limit": "20",
+      "product": {
+        "p_id": "24329",
+        "p_title": "Panadol",
+        "content": "500 mg",
+        "p_type": "tablet",
+        "p_buy_limit": "20",
+        "p_stock_status": "Yes",
+        "strip_per_pack": "20",
+        "p_price": "32.04",
+        "is_lab": "No",
+        "is_medicine": "1",
+        "is_cold_chain": "0",
+        "pack_size": "20 x 10's",
+        "p_status": "Enable",
+        "qty_depend": "0",
+        "allow_strip_orders": "1",
+        "strip_size": "10",
+        "discount": "0",
+        "brand_name": "GSK Consumer Healthcare",
+        "cat_name": "Non-Narcotic Analgesic",
+        "is_premium": "0"
+      },
+      "max_qty_from_api": 0
+    }
+  }
+]

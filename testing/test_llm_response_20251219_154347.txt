@@ -1,0 +1,50 @@
+```json
+{
+  "is_medical_query": true,
+  "analysis": "High fever, body aches, and chills are common symptoms often indicative of an acute infection, such as a viral illness. Managing these symptoms is important for patient comfort and to address the increased metabolic activity and fluid requirements associated with an elevated body temperature, as highlighted in medical literature.",
+  "recommendations": [
+    {
+      "rank": 1,
+      "chemical_formula": "Paracetamol",
+      "dosage": "500mg every 6 hours",
+      "reason": "Effective antipyretic (fever reducer) and analgesic (pain reliever) for body aches and chills. Helps manage the elevated body temperature and associated discomfort.",
+      "warnings": "Do not exceed 4000mg in 24 hours. Avoid if severe liver disease.",
+      "requires_doctor": false
+    },
+    {
+      "rank": 2,
+      "chemical_formula": "Ibuprofen",
+      "dosage": "200-400mg every 8 hours",
+      "reason": "Non-steroidal anti-inflammatory drug (NSAID) that reduces fever, body aches, and inflammation. Can be effective for the discomfort associated with chills and muscle pain.",
+      "warnings": "Take with food to avoid stomach upset. Avoid if history of stomach ulcers, kidney problems, or severe asthma.",
+      "requires_doctor": false
+    },
+    {
+      "rank": 3,
+      "chemical_formula": "Naproxen",
+      "dosage": "220mg every 8-12 hours",
+      "reason": "Another NSAID with longer-lasting effects than ibuprofen, providing sustained relief from fever, body aches, and inflammation.",
+      "warnings": "Take with food. Avoid if history of stomach ulcers or kidney issues.",
+      "requires_doctor": false
+    },
+    {
+      "rank": 4,
+      "chemical_formula": "Oral Rehydration Salts",
+      "dosage": "As directed, typically 1 sachet dissolved in 1 liter of water, consumed throughout the day.",
+      "reason": "High fever increases fluid and calorie requirements. ORS helps replenish fluids and electrolytes lost due to fever and potential sweating, preventing dehydration.",
+      "warnings": "Prepare with clean water. Do not exceed recommended dosage without medical advice.",
+      "requires_doctor": false
+    },
+    {
+      "rank": 5,
+      "chemical_formula": "Ascorbic Acid",
+      "dosage": "500mg once or twice daily",
+      "reason": "While not directly treating fever or pain, Vitamin C is an antioxidant that supports the immune system, which can be beneficial during an infection causing fever and body aches.",
+      "warnings": "High doses can cause stomach upset or diarrhea.",
+      "requires_doctor": false
+    }
+  ],
+  "requires_immediate_attention": false,
+  "disclaimer": "Consult healthcare professional for proper diagnosis"
+}
+```

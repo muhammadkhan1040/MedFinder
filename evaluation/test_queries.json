@@ -1,0 +1,54 @@
+{
+  "test_queries": [
+    {
+      "category": "pain_management",
+      "query": "I have severe headache and fever since morning",
+      "ground_truth": ["Paracetamol", "Ibuprofen", "Aspirin"]
+    },
+    {
+      "category": "pain_management",
+      "query": "Lower back pain after lifting heavy objects",
+      "ground_truth": ["Ibuprofen", "Naproxen", "Diclofenac"]
+    },
+    {
+      "category": "infectious_diseases",
+      "query": "Sore throat, fever, and difficulty swallowing",
+      "ground_truth": ["Amoxicillin", "Azithromycin", "Paracetamol"]
+    },
+    {
+      "category": "infectious_diseases",
+      "query": "Urinary burning sensation and frequent urination",
+      "ground_truth": ["Ciprofloxacin", "Nitrofurantoin"]
+    },
+    {
+      "category": "cardiovascular",
+      "query": "High blood pressure readings and dizziness",
+      "ground_truth": ["Amlodipine", "Lisinopril", "Atenolol"]
+    },
+    {
+      "category": "gastrointestinal",
+      "query": "Severe acid reflux and heartburn after meals",
+      "ground_truth": ["Omeprazole", "Ranitidine", "Pantoprazole"]
+    },
+    {
+      "category": "respiratory",
+      "query": "Persistent dry cough and wheezing at night",
+      "ground_truth": ["Salbutamol", "Dextromethorphan", "Cetirizine"]
+    },
+    {
+      "category": "diabetes",
+      "query": "High blood sugar levels and increased thirst",
+      "ground_truth": ["Metformin", "Glimepiride", "Insulin"]
+    },
+    {
+      "category": "allergy",
+      "query": "Runny nose, sneezing, and watery eyes",
+      "ground_truth": ["Loratadine", "Cetirizine", "Fexofenadine"]
+    },
+    {
+      "category": "dermatological",
+      "query": "Itchy skin rash with redness and swelling",
+      "ground_truth": ["Cetirizine", "Hydrocortisone", "Calamine"]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Test Medicine": {
+    "available": 1,
+    "price": "100.00",
+    "out_of_stock": 0,
+    "p_id": "12345",
+    "last_checked": "2025-12-06T23:15:51.545588"
+  },
+  "Panadol CF  caplets 10x10's": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "43759",
+    "last_checked": "2025-12-06T23:15:53.475067"
+  },
+  "Brufen 600mg tablet 3x12's": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "35198",
+    "last_checked": "2025-12-06T23:15:55.510552"
+  },
+  "Disprin 300mg tablet 10x10's": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "18221",
+    "last_checked": "2025-12-06T23:15:56.494239"
+  },
+  "Panadol CF Day Tablet": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "43759",
+    "last_checked": "2025-12-07T13:47:54.451923"
+  },
+  "Panadol Liquid": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "577",
+    "last_checked": "2025-12-10T17:46:54.163853"
+  },
+  "Panadol 30 ml Drops  drops 80mg 30 ml": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "287",
+    "last_checked": "2025-12-10T17:46:30.880040"
+  },
+  "Brufen 10 % cream 30 gm": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "35198",
+    "last_checked": "2025-12-10T17:28:08.622977"
+  },
+  "Brufen 120ml 100mg suspension 120ml": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "35198",
+    "last_checked": "2025-12-10T17:28:39.374333"
+  },
+  "Panadol 500 mg tablet 20 x 10's": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "287",
+    "last_checked": "2025-12-10T17:46:37.101641"
+  },
+  "Panadol Forte Pine Apple  forte suspension 90ml": {
+    "available": 0,
+    "price": "",
+    "out_of_stock": null,
+    "p_id": "24329",
+    "last_checked": "2025-12-10T17:46:49.978658"
+  }
+}

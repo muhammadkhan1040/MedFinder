@@ -1,0 +1,289 @@
+{
+  "test_url": "https://dawaai.pk/medicine/panadol-5-24329.html",
+  "total_requests": 87,
+  "api_endpoints": [
+    {
+      "url": "https://dawaai.pk/api/consumer/v1/configuration/get_fast_visibility",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20251203&st=env&sjk=4208457011920963",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8"
+    },
+    {
+      "url": "https://api-js.mixpanel.com/track/?verbose=1&ip=1&_=1764963426150",
+      "status": 200,
+      "content_type": "application/json"
+    }
+  ],
+  "availability_indicators": [
+    {
+      "selector": "button[disabled]",
+      "text": "Submit"
+    }
+  ],
+  "request_types": {
+    "document": 6,
+    "font": 1,
+    "script": 26,
+    "stylesheet": 4,
+    "image": 34,
+    "xhr": 12,
+    "media": 1,
+    "fetch": 3
+  },
+  "all_requests": [
+    {
+      "url": "https://dawaai.pk/medicine/panadol-5-24329.html",
+      "method": "GET",
+      "resource_type": "document"
+    },
+    {
+      "url": "https://dawaai.pk/assets/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "method": "GET",
+      "resource_type": "font"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-M50BR48D77",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3025703533225335",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/jquery-3.6.0.min.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/pagination.min.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/css/d-style.min.css?v=3.17.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://dawaai.pk/assets/css/product-page-only.min.css?v=3.17.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://dawaai.pk/assets/css/font-awesome.min.css?v=4.7",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/logo.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/shopping-bag.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/offers-icon.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/file-prescription.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://dawaai.pk/assets/img/geolocation-icon.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://dawaai.pk/assets/img/pin.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://dawaai.pk/assets/css/jquery-picZoomer.css",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://product.dawaai.pk/800/gskpan24329_1680600034_4.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://product.dawaai.pk/800/gskpan24329_1680600034_4.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/saving-banks-offers/cash.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/saving-banks-offers/meezan.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/saving-banks-offers/hbl.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/saving-banks-offers/habib-metro.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/saving-banks-offers/silk.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/googleplay.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/appstore.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static.legitscript.com/seals/1089119.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/payment-method.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/thankyou-img.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/scripts_alpha.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/client.base.min.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/front-page.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/cart.js?v=3.17.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/mixpanel-library.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/settings.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/slider-with-touch-dot-autoplay.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/jquery.picZoomer.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/assets/js/karachipromo.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PTDDHXJ",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://dawaai.pk/product/get_product",
+      "method": "POST",
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://dawaai.pk/assets/trustedlogo.html",
+      "method": "GET",
+      "resource_type": "document"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/diabetes.mp4",
+      "method": "GET",
+      "resource_type": "media"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/generic-group-new.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Pregnancy.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Lactation.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Driving.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Liver.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Kidney.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Alcohol.webp",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://static-media.dawaai.pk/img/product-warnings/Precautions.webp",
+      "method": "GET",
+      "resource_type": "image"
+    }
+  ]
+}
